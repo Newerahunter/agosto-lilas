@@ -1,5 +1,5 @@
 body {
-  backgroud-color:#ffe610;
+  background-color: #ffe610;
   font-family: Arial, sans-serif;
   padding: 20px;
   margin: 0;
@@ -23,7 +23,7 @@ main {
 }
 
 p {
-  font-size: 20 px;
+  font-size: 20px;
   color: #333;
   line-height: 1.6;
   margin-bottom: 15px;
@@ -43,6 +43,5 @@ footer {
   text-align: center;
   padding: 15px;
   margin-top: 40px;
-  font-size:14px;
+  font-size: 14px;
 }
-  
